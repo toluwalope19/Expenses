@@ -14,5 +14,5 @@ This is a Simple Expenses app to track daily activities
 # ScreenShots
 
 Screen:
-<img src="https://github.com/toluwalope19/Expenses/tree/master/assets/images" alt="drawing" width="200"/>
+<img src="https://github.com/toluwalope19/Expenses/blob/master/assets/images/image.PNG" alt="drawing" width="200"/>
 
